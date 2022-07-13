@@ -1,25 +1,26 @@
-Hi there, I'm Vladimir👋
 
-How to reach me: vladimirvovk97@gmail.com
+<h1>Hi there 👋</h1>
 
-My stack and tools:
 
-JavaScript
+- 🤔 I’m Vladimir,I'm from Ukraine,and I **looking for junior frontend position in modern friendly developing IT-company.**
+ My goal is to realize myself in a new job and give my abilities and talents to be useful.**
+- ⚡ **My goal is to realize myself in a new job and give my abilities and talents to be useful.**
 
-HTML5
+### My stack and tools
 
-CSS3
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-Sass
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-BEM
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-WebPack
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-RestApi
+<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-Git
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-GitHub
+<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+=======
 
-Visual Studio Code
+
