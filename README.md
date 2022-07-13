@@ -3,7 +3,6 @@
 
 
 - 🤔 I’m Vladimir,I'm from Ukraine,and I **looking for junior frontend position in modern friendly developing IT-company.**
- My goal is to realize myself in a new job and give my abilities and talents to be useful.**
 - ⚡ **My goal is to realize myself in a new job and give my abilities and talents to be useful.**
 
 ### My stack and tools
