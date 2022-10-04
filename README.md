@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-- 🤔 I’m Vladimir,I'm from Ukraine,and I **looking for junior frontend position
+- 🤔 I’m Volodymyr,I'm from Ukraine,and I **looking for junior frontend position
   in modern friendly developing IT-company.**
 - ⚡ **I have experience in designing and building adaptive/responsive websites
   and apps, creating HTML websites based on layouts, using an Agile/SCRUM
