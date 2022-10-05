@@ -10,20 +10,22 @@
 
 ### My stack and tools
 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Sass" width="35px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sass-512.png" />
+<img align="left" alt="Sass" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sass-512.png" />
 
-<img align="left" alt="BEM" width="40px" src="https://goit.global/textbooks/html-css-a7u5xv/v1/img/lesson-13/bem.png" />
+<img align="left"  alt="BEM" width="56px" src="https://senior.ua/storage/article/content/50ce1416-6510-4a78-93d1-cd00ab912a9a.jpeg" />
 
-<img align="left" alt="JavaScript" width="35px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
 
-<img align ="left" alt ="React" width="35px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img align ="left" alt ="React" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-<img align ="left" alt ="WebPack" width="35px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
+<img align ="left" alt ="WebPack" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align ="left" alt ="Parcel" width="110px" src ="https://www.pngitem.com/pimgs/m/329-3298980_parcel-js-logo-hd-png-download.png">
 
-<img alt="Visual Studio Code" width="37px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/visualstudio-microsoft-webdesign-html-css-javascript-develop-512.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img alt="Visual Studio Code" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/visualstudio-microsoft-webdesign-html-css-javascript-develop-512.png" />
